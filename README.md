@@ -1,0 +1,2 @@
+# StupidPE
+Minecraft PE server
